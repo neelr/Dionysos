@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^2.2.3",
+    "@slack/bolt": "^3.12.2",
     "@slack/events-api": "^2.3.3",
     "airtable": "^0.8.1"
   }
